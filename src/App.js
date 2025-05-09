@@ -24,7 +24,7 @@ function App() {
             style={{ filter: 'blur(6px)', maxWidth: '300px', borderRadius: '8px' }}
           />
           <div style={{ marginTop: '20px' }}>
-            <a href="https://tu-link-de-gumroad" target="_blank" rel="noreferrer">
+            <a href="https://iarbonesc.gumroad.com/l/sqjwm" target="_blank" rel="noreferrer">
               <button style={{ padding: '10px 20px', backgroundColor: '#007bff', color: '#fff', border: 'none', borderRadius: '6px' }}>
                 Desbloquear resultado
               </button>
